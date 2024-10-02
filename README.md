@@ -1,4 +1,4 @@
-# Welcome to the GitHub Sustainability GHW: Cloud Week Challenge Page!
+# Welcome to the GitHub Sustainability GHW: Open Source Week Challenge Page!
 
 ## Getting Help 
 
